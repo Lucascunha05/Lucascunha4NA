@@ -70,3 +70,5 @@ npx ts-node src/index.ts
 
 ## Conclusão
 Este README fornece uma visão geral dos requisitos e da configuração necessária para o projeto. Para mais informações, consulte a documentação adicional ou entre em contato com a equipe de desenvolvimento.
+
+Autor: Lucas Henrique 
